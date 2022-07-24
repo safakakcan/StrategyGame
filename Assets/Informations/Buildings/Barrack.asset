@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ae80736c4e6b924cb23dad730f46f00, type: 3}
+  m_Name: Barrack
+  m_EditorClassIdentifier: 
+  displayName: Barrack
+  description: 
+  sprite: {fileID: 21300000, guid: 471f7de68fd63424083bd3f947399173, type: 3}
+  maxHealth: 100
+  size: {x: 3, y: 2}
+  units:
+  - {fileID: 1976419224499135176, guid: 85d365904a1d2a6408ff1147c3d6b21b, type: 3}
+  - {fileID: 7822758894013733445, guid: 09d5fe2b3b499ee4faec768323f28c5e, type: 3}
+  - {fileID: 5522240066040262888, guid: c99164c3d830acc4f9fdcf01ca101741, type: 3}
